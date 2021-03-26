@@ -306,7 +306,7 @@ label span{
         animation-duration: 1s, 1s;
         animation-delay: 4s, 5s;
         animation-fill-mode: forwards;
-        border-bottom-color: #d4e9ff;
+        border-bottom-color: hsl(165, 71%, 52%);
         border-left-color: #d4e9ff;
     }
     main .coluna{
